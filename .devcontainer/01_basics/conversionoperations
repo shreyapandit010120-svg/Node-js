@@ -1,0 +1,14 @@
+let score = 5;
+let score2 = null;
+let score3 = undefined;
+let a = "shreya"
+console.log(typeof score)
+console.log(typeof Number(score))
+console.log(typeof Number(score2))
+console.log(typeof (score3))
+//if i want to convert a string then it returns NAN
+console.log(Number(a))
+let isloggedin = 1;
+let check = Boolean(isloggedin)
+console.log(check)
+// 1=>true,0=>false, shreya =>true,""=>false
