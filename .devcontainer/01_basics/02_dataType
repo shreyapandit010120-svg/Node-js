@@ -1,0 +1,10 @@
+// "use strict"
+// a = 56;
+// console.log(a);
+let a = 5;
+let b = 6.0;
+let result = false;
+console.log(typeof(a));
+console.log(typeof b)
+console.log(typeof result,typeof null,typeof undefined)
+
