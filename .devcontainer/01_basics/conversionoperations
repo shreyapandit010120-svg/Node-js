@@ -12,3 +12,12 @@ let isloggedin = 1;
 let check = Boolean(isloggedin)
 console.log(check)
 // 1=>true,0=>false, shreya =>true,""=>false
+let value = 3
+let negvalue = -value
+console.log(negvalue)
+let str1 = 1;
+let str2 = 2;
+let str3 = str1+str2;
+console.log(1+"2")
+console.log("1"+2+2)
+console.log(1+2+"2");
